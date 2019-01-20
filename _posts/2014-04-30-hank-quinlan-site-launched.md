@@ -2,6 +2,7 @@
 
 layout: post
 title: "Hank Quinlan follows tutorial online for making GitHub page"
+date: 2014-04-30
 
 ---
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com)
