@@ -4,3 +4,4 @@ source 'https://rubygems.org'
 # maintaining a local Jekyll environment in sync with GitHub Pages
 # https://github.com/github/pages-gem
 gem 'github-pages'
+gem 'wdm', '>=0.1.0' if Gem.win_platform?
