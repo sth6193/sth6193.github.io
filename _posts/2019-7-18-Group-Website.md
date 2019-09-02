@@ -3,12 +3,12 @@ layout:     post
 title:      A One Week Website - A Division of Graduate Student Labor
 date:       2019-7-18 12:00:00
 summary:    Making website for our group on short notice. What I learned and how it turned out.
-categories: Personal
+categories: Research
 ---
 
 Check out the website I made here: [Madhavan Lab Website](http://madhavanlab.org/)
 
-There are many misconceptions about what a PhD entails. With Physics, it varies from people thinking that I do what they hated in high school to what they saw in the latest science fiction movie. In reality the answer is "Whatever my advisor told me to do". This is of course a joke, but the best humor is often uncomfortably close to the reality.
+There are many misconceptions about what a PhD entails. With Physics, it varies from people thinking that I do what they hated in high school to what they saw in the latest science fiction movie. In reality, the answer is "Whatever my advisor told me to do". This is of course a joke, but the best humor is often uncomfortably close to the reality.
 
 Last week my advisor told me we need a new group website. This baton had been passed a few times within the group, finally landing in my hands. But this time was different. Funding proposals were due in a week. It had to be done.
 

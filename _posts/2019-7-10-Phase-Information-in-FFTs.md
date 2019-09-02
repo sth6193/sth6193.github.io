@@ -6,6 +6,8 @@ summary:    Extracting information from the complex nature of Fourier Transforms
 categories: Research
 ---
 
+Check out the paper here: [https://arxiv.org/abs/1903.00515](https://arxiv.org/abs/1903.00515)
+
 In my research, we image surfaces of materials with atomic resolution. A lot of the work deals with identifying patterns within these images, whether it's the atoms within a lattice or electronic standing waves. The best way look at these patterns is with Fourier transforms. The basic idea of a Fourier transform is that a function (or in this case an image) can be represented by a sum of sinusoidal functions with varying amplitude and frequency. For a continuous function this looks like and integral, but discrete data uses a sum. I'll consider a 1D discrete function \\(I(\vec{r})\\), but this is easily generalized for an N-dimensional function/dataset. If you want to do it in N dimensions, we just need N sums or N integrals.
 
 \\[I(\vec{r}) = \sum_{\vec{k}} A_k e^{i \vec{k} \cdot \vec{r}} \\]

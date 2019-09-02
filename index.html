@@ -2,7 +2,17 @@
 layout: default
 ---
 
+
 {% assign posts_count = paginator.posts | size %}
+
+{% if paginator.page==1 %}
+<p align="center" text-align>
+<img src="/_img/circle_sean.png" width="180" height="180" align="middle">
+<center><i> I'm excited about using math and programming to solve difficult problems. In the lab, that's studying quantum materials with a Scanning Tunneling Microscope I built. On the side,
+that's learning more about coding and data science. Here's where I write about it. </i></center>
+</p>
+
+{% endif %}
 
 <div class="home">
   {% if posts_count > 0 %}
